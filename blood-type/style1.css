@@ -1,0 +1,49 @@
+.bgroup {
+    display: flex;
+    justify-content: center;
+
+}
+
+.row {
+    display: flex;
+}
+
+.org {
+    display: block;
+}
+
+.org-container {
+    display: flex;
+    margin: 15px;
+    padding: 12px;
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+.take {
+    display: block;
+    justify-content: center;
+    align-content: center;
+}
+
+.dt {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.org-text {
+    display: block;
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0 10px;
+
+}
+
+.img {
+    width: 300px;
+    height: 289px;
+    padding: 0 48px 0 12px;
+
+}
